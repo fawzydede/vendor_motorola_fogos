@@ -3419,6 +3419,7 @@ PRODUCT_PACKAGES += \
     liblowlight_ai_portrait.arcsoft \
     libmctfengine_stub \
     libmfec \
+    libminkdescriptor \
     libmmcamera_bestats \
     libmmcamera_cac3 \
     libmmcamera_faceproc \
@@ -3431,6 +3432,7 @@ PRODUCT_PACKAGES += \
     libmot_chi_desktop_helper \
     libmot_engine_settings \
     libmpbase \
+    liboemcrypto \
     libofflinedump \
     libofflinelog \
     libopencv \
@@ -3441,6 +3443,8 @@ PRODUCT_PACKAGES += \
     libremosaic_wrapper \
     libswregistrationalgo \
     libtfestriping \
+    libtrustedapploader \
+    libtzdrmgenprov \
     libvidhance \
     motorola.hardware.camera.desktop@1.0 \
     motorola.hardware.camera.desktop@2.0 \
